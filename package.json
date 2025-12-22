@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "mongodb": "^3.3.2",
-    "node-rest-client": "^3.1.0"
+    "node-rest-client": "^3.1.1"
   }
 }
